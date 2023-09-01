@@ -1,6 +1,15 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Viktor Santos </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viktorsht&color=yellow" alt="Profile views" /> </p>
 
+---
+
+I'm a Flutter Developer with a passion for creating beautiful and functional mobile applications. 
+
+- 🌱 Currently learning: **[Your current focus or project]**
+- 💬 Ask me about: Flutter, Dart, Mobile App Development
+- 📫 Reach me at: **[Your contact information]**
+
+---
 
 <div align="center">
   <a href="https://github.com/viktorsht">
@@ -21,13 +30,11 @@
   <img align="center" alt="Viktor-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Viktor-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Viktor-FastAPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
-  
 </div>
-  
-  ##
-  
+
+## Connect with Me
+
 <div> 
   <a href="https://instagram.com/viktor_sht_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/viktor_sht_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
+  <a href="https://twitter.com/viktor_sht_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
