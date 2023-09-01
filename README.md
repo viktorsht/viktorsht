@@ -5,9 +5,9 @@
 
 I'm a Flutter Developer with a passion for creating beautiful and functional mobile applications. 
 
-- 🌱 Currently learning: **[Your current focus or project]**
+- 🌱 Currently learning: **[KingOfBall](https://github.com/viktorsht/KingOfBall)**
 - 💬 Ask me about: Flutter, Dart, Mobile App Development
-- 📫 Reach me at: **[Your contact information]**
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/vitor-santos-62920419a/)
 
 ---
 
@@ -32,9 +32,18 @@ I'm a Flutter Developer with a passion for creating beautiful and functional mob
   <img align="center" alt="Viktor-FastAPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
 </div>
 
-## Connect with Me
+## You can connect with me on various platforms:
 
-<div> 
-  <a href="https://instagram.com/viktor_sht_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/viktor_sht_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/vitor-santos-62920419a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://instagram.com/viktor_sht_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  
+  <a href="https://twitter.com/viktor_sht_" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </div>
