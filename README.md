@@ -5,7 +5,7 @@
 
 I'm a Flutter Developer with a passion for creating beautiful and functional mobile applications. 
 
-- 🌱 Currently learning: **[KingOfBall](https://github.com/viktorsht/KingOfBall)**
+- 🌱 Currently learning: **[Flutter](https://flutter.dev/)**
 - 💬 Ask me about: Flutter, Dart, Mobile App Development
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/vitor-santos-62920419a/)
 
