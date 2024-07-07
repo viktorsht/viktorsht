@@ -1,13 +1,12 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Viktor Santos </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viktorsht&color=yellow" alt="Profile views" /> </p>
+<h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Viktor Santos</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viktorsht&color=yellow" alt="Visualizações de perfil" /> </p>
 
 ---
 
-I'm a Flutter Developer with a passion for creating beautiful and functional mobile applications. 
+Sou um desenvolvedor Flutter com paixão por criar aplicações móveis bonitas e funcionais.
 
-- 🌱 Currently learning: **[Flutter](https://flutter.dev/)**
-- 💬 Ask me about: Flutter, Dart, Mobile App Development
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/vitor-santos-62920419a/)
+- 🌱 Atualmente trabalhando com: **[Flutter](https://flutter.dev/)**
+- 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/vitor-santos-62920419a/)
 
 ---
 
@@ -27,7 +26,7 @@ I'm a Flutter Developer with a passion for creating beautiful and functional mob
   <img align="center" alt="Viktor-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-## You can connect with me on various platforms:
+## Você pode se conectar comigo em várias plataformas:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/vitor-santos-62920419a/" target="_blank">
